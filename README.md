@@ -6,3 +6,6 @@ Curso de análisis geoespacial Semestre 2026-2S
 * Se realiza las respectivas configuraciones
 * Se guarda los cambios con _**Commit changes**_
 * Modificación 2.0
+
+### _Practicando Git y GitHub_
+* Modificación del repositorio en Github 
